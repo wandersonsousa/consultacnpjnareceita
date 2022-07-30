@@ -1,1 +1,1 @@
-web: serve
+web: npm serve
